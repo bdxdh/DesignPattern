@@ -6,7 +6,6 @@ package com.atguigu.principle.singleResponsibility;
 public class SingleResponsibility2 {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         RoadVehicle roadVehicle = new RoadVehicle();
         roadVehicle.run("摩托车");
         roadVehicle.run("汽车");
